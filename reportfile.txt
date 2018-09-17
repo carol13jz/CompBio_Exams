@@ -1,0 +1,3 @@
+<_io.TextIOWrapper name='../Accelerated_Intro_WilkinsonExams/LocusGene.tsv' mode='r' encoding='UTF-8'>	CIPK9	223
+	SALK_012400C	fkgp-1 mutants have about 40 times more L-fucose than wild type Arabidopsis plants, but the levels of other monosaccharides do not appear to differ significantly in the mutants. No obvious phenotypic abnormalities were observed in the fkgp-1 mutants, nor were any differences in the sugar composition of cell wall polysaccharides detected.	18199744
+	
